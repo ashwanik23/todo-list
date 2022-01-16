@@ -1,0 +1,17 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is a todolist project from Angela Yu's complete bootcamp. Using EJS, express and Node.js ->A To-do list Application 📋 ->Skills: HTML, CSS, Bootstrap, JavaScript, Express, EJS.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.6"
+  }
+}
